@@ -1,2 +1,2 @@
 # CI_CD
-here we see implementation 
+here we see implementation of CI/CD
